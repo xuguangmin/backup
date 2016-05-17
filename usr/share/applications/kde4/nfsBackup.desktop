@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=备份工具
+Comment=备份您的主目录
+GenericName=备份您的主目录
+Exec=nfsBackup
+Icon=/usr/lib/nfsbackup/icon.png
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=Qt;KDE;System;
+X-KDE-StartupNotify=false
+OnlyShowIn=KDE;

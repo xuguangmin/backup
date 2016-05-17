@@ -1,0 +1,862 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-17 16:47+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: usr/lib/nfsbackup/nfsBackup.py:43 usr/lib/nfsbackup/nfsBackup.py:108
+#: usr/lib/nfsbackup/nfsBackup.py:399 usr/lib/nfsbackup/nfsBackup.py:758
+#: usr/lib/nfsbackup/nfsBackup.py:820 usr/lib/nfsbackup/nfsBackup.py:838
+#: usr/lib/nfsbackup/nfsBackup.py:848 usr/lib/nfsbackup/nfsBackup.py:850
+#: usr/lib/nfsbackup/nfsBackup.py:858 usr/lib/nfsbackup/nfsBackup.py:866
+#: usr/lib/nfsbackup/nfsBackup.py:877 usr/lib/nfsbackup/nfsBackup.py:958
+#: usr/lib/nfsbackup/nfsBackup.py:978 usr/lib/nfsbackup/nfsBackup.py:1026
+#: usr/lib/nfsbackup/nfsBackup.py:1080 usr/lib/nfsbackup/nfsBackup.py:1083
+#: usr/lib/nfsbackup/nfsBackup.py:1087 usr/lib/nfsbackup/nfsBackup.py:1185
+#: usr/lib/nfsbackup/nfsBackup.py:1237 usr/lib/nfsbackup/nfsBackup.py:1242
+#: usr/lib/nfsbackup/nfsBackup.py:1246 usr/lib/nfsbackup/nfsBackup.py:1257
+#: usr/lib/nfsbackup/nfsBackup.py:1278 usr/lib/nfsbackup/nfsBackup.py:1296
+#: usr/lib/nfsbackup/nfsBackup.py:1332 usr/lib/nfsbackup/nfsBackup.py:1350
+#: usr/lib/nfsbackup/nfsBackup.py:1357 usr/lib/nfsbackup/nfsBackup.py:1366
+#: usr/lib/nfsbackup/nfsBackup.py:1369 usr/lib/nfsbackup/nfsBackup.py:1401
+#: usr/lib/nfsbackup/nfsBackup.py:1405 usr/lib/nfsbackup/nfsBackup.py:1411
+#: usr/lib/nfsbackup/nfsBackup.py:1417 usr/lib/nfsbackup/nfsBackup.py:1422
+#: usr/lib/nfsbackup/nfsBackup.py:1439 usr/lib/nfsbackup/nfsBackup.py:1481
+#: usr/lib/nfsbackup/nfsBackup.py:1484 usr/lib/nfsbackup/nfsBackup.py:1496
+#: usr/lib/nfsbackup/nfsBackup.py:1507 usr/lib/nfsbackup/nfsBackup.py:1518
+#: usr/lib/nfsbackup/nfsBackup.py:2826 usr/lib/nfsbackup/nfsBackup.py:2962
+#: usr/lib/nfsbackup/nfsBackup.py:3055 usr/lib/nfsbackup/nfsBackup.py:3063
+#: usr/lib/nfsbackup/nfsBackup.py:3076 usr/lib/nfsbackup/nfsBackup.py:3081
+#: usr/lib/nfsbackup/nfsBackup.py:3221
+msgid "Backup Tool"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:44
+msgid "Make a backup of your home directory"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:162 usr/lib/nfsbackup/nfsBackup.py:479
+msgid "Backup user configure"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:163 usr/lib/nfsbackup/nfsBackup.py:480
+msgid "Backup system configure"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:164 usr/lib/nfsbackup/nfsBackup.py:481
+msgid "Backup all configure"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:165 usr/lib/nfsbackup/nfsBackup.py:482
+msgid "Restore user configure"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:166 usr/lib/nfsbackup/nfsBackup.py:483
+msgid "Restore system configure"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:167 usr/lib/nfsbackup/nfsBackup.py:484
+msgid "Restore all configure"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:199 usr/lib/nfsbackup/nfsBackup.py:250
+#: usr/lib/nfsbackup/nfsBackup.py:420
+msgid "Add paths"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:210
+msgid "Preserve structure"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:212
+msgid ".tar file"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:213
+msgid ".tar.bz2 file"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:214
+msgid ".tar.gz file"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:220
+msgid "Never"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:221
+msgid "Size mismatch"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:222
+msgid "Modification time mismatch"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:223
+msgid "Checksum mismatch"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:224
+msgid "Always"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:261 usr/lib/nfsbackup/nfsBackup.py:1161
+#: usr/lib/nfsbackup/nfsBackup.py:1427 usr/lib/nfsbackup/nfsBackup.py:1468
+#: usr/lib/nfsbackup/nfsBackup.py:2902
+msgid "Preserve structure always overwrite"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:263 usr/lib/nfsbackup/nfsBackup.py:1429
+#: usr/lib/nfsbackup/nfsBackup.py:1470 usr/lib/nfsbackup/nfsBackup.py:2900
+msgid ".tar file not overwrite"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:358 usr/lib/nfsbackup/nfsBackup.py:494
+msgid "Type"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:362 usr/lib/nfsbackup/nfsBackup.py:498
+msgid "Detail"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:368 usr/lib/nfsbackup/nfsBackup.py:377
+#: usr/lib/nfsbackup/nfsBackup.py:504 usr/lib/nfsbackup/nfsBackup.py:513
+msgid "Path"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:371 usr/lib/nfsbackup/nfsBackup.py:380
+#: usr/lib/nfsbackup/nfsBackup.py:507 usr/lib/nfsbackup/nfsBackup.py:516
+msgid "Error"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:444
+msgid "Store?"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:447 usr/lib/nfsbackup/nfsBackup.py:467
+msgid "Name"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:464
+msgid "Install"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:522
+msgid "Backup or Restore"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:523
+msgid "Choose from the following options"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:525 usr/lib/nfsbackup/nfsBackup.py:553
+#: usr/lib/nfsbackup/nfsBackup.py:578 usr/lib/nfsbackup/nfsBackup.py:588
+#: usr/lib/nfsbackup/nfsBackup.py:607
+msgid "Backup files"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:526 usr/lib/nfsbackup/nfsBackup.py:616
+#: usr/lib/nfsbackup/nfsBackup.py:627 usr/lib/nfsbackup/nfsBackup.py:633
+#: usr/lib/nfsbackup/nfsBackup.py:639 usr/lib/nfsbackup/nfsBackup.py:2282
+msgid "Restore files"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:527 usr/lib/nfsbackup/nfsBackup.py:643
+#: usr/lib/nfsbackup/nfsBackup.py:654 usr/lib/nfsbackup/nfsBackup.py:660
+#: usr/lib/nfsbackup/nfsBackup.py:665
+msgid "Backup software selection"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:528 usr/lib/nfsbackup/nfsBackup.py:669
+#: usr/lib/nfsbackup/nfsBackup.py:681 usr/lib/nfsbackup/nfsBackup.py:688
+msgid "Restore software selection"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:529
+msgid "Backup your files regularly"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:530 usr/lib/nfsbackup/nfsBackup.py:727
+msgid "Backup or restore your configure"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:531
+msgid "Create a new backup of your system"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:532
+msgid "restore a backup you have created system"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:534
+msgid "Make a backup of your files"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:535
+msgid "Save the list of installed applications"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:536
+msgid "Restore a previous backup"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:537
+msgid "Restore previously installed applications"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:538
+msgid "Backup your files regularly with the timer"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:539
+msgid "Backup or restore your configure for you"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:540
+msgid "Backup your system for you"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:541
+msgid "Backup or restore your system for you"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:554 usr/lib/nfsbackup/nfsBackup.py:694
+msgid "Please select a source and a destination for your backup"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:556 usr/lib/nfsbackup/nfsBackup.py:620
+#: usr/lib/nfsbackup/nfsBackup.py:696
+msgid "Add files"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:557 usr/lib/nfsbackup/nfsBackup.py:621
+#: usr/lib/nfsbackup/nfsBackup.py:697
+msgid "Add folder"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:558 usr/lib/nfsbackup/nfsBackup.py:622
+#: usr/lib/nfsbackup/nfsBackup.py:698
+msgid "Remove"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:560 usr/lib/nfsbackup/nfsBackup.py:700
+#: usr/lib/nfsbackup/nfsBackup.py:1099
+msgid "Backup destination:"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:561 usr/lib/nfsbackup/nfsBackup.py:623
+#: usr/lib/nfsbackup/nfsBackup.py:701
+msgid "Advanced options"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:562 usr/lib/nfsbackup/nfsBackup.py:630
+msgid "Description:"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:563 usr/lib/nfsbackup/nfsBackup.py:702
+msgid "Output:"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:564 usr/lib/nfsbackup/nfsBackup.py:624
+msgid "Overwrite:"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:565
+msgid "Confirm integrity"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:566
+msgid "Follow symlinks"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:567
+msgid "Preserve permissions"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:568
+msgid "Preserve timestamps"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:571 usr/lib/nfsbackup/nfsBackup.py:693
+#: usr/lib/nfsbackup/nfsBackup.py:705
+msgid "Backup-timer setup"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:572
+msgid "The list below shows the backup-timers you added"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:573
+msgid "Create an backup-timer"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:574
+msgid "Delete an backup-timer"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:579 usr/lib/nfsbackup/nfsBackup.py:734
+msgid "Please review the information below before starting the backup"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:583
+msgid "Backup system"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:584
+msgid "Please review the information below before starting the system backup"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:589 usr/lib/nfsbackup/nfsBackup.py:738
+msgid "Please wait while your files are being backed up"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:590 usr/lib/nfsbackup/nfsBackup.py:596
+#: usr/lib/nfsbackup/nfsBackup.py:662 usr/lib/nfsbackup/nfsBackup.py:739
+msgid "Backing up:"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:594 usr/lib/nfsbackup/nfsBackup.py:611
+#: usr/lib/nfsbackup/nfsBackup.py:649
+msgid "Backup your system"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:595
+msgid "Please wait while your system are being backed up"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:599
+msgid "Restore system"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:600
+msgid "Please wait while your system are being restored"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:601 usr/lib/nfsbackup/nfsBackup.py:635
+#: usr/lib/nfsbackup/nfsBackup.py:748
+msgid "Restoring:"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:608 usr/lib/nfsbackup/nfsBackup.py:666
+#: usr/lib/nfsbackup/nfsBackup.py:743
+msgid "The backup is now finished"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:612
+msgid "The system backup is now finished"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:617
+msgid ""
+"Please choose the type of backup to restore, its location and a destination"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:618
+msgid "Archive"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:619
+msgid "Directory"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:628
+msgid "Please review the information below"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:629
+msgid "Source:"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:634 usr/lib/nfsbackup/nfsBackup.py:747
+msgid "Please wait while your files are being restored"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:638
+msgid "Restore destination:"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:640 usr/lib/nfsbackup/nfsBackup.py:752
+msgid "The restoration of the files is now finished"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:644 usr/lib/nfsbackup/nfsBackup.py:650
+msgid "Please choose a destination"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:655
+msgid "The list below shows the packages you added to Linux Mint"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:656 usr/lib/nfsbackup/nfsBackup.py:683
+msgid "Select all"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:657 usr/lib/nfsbackup/nfsBackup.py:684
+msgid "Deselect all"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:661
+msgid "Please wait while your software selection is being backed up"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:670
+msgid "Please select a saved software selection"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:671
+msgid "Software selection:"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:674
+msgid "Restore system selection"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:675
+msgid "Please select a saved system selection"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:676
+msgid "System selection:"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:682
+msgid "Select the packages you want to install"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:685
+msgid "Refresh"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:689
+msgid "The restoration is now finished"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:690
+msgid "Your package selection was restored succesfully"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:706
+msgid "Please select strategy and time for your backup"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:708
+msgid "One time"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:709
+msgid "Periodic"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:711
+msgid "time"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:712
+msgid "hour"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:713
+msgid "minute"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:715 usr/lib/nfsbackup/nfsBackup.py:1138
+#: usr/lib/nfsbackup/nfsBackup.py:1139 usr/lib/nfsbackup/nfsBackup.py:1424
+#: usr/lib/nfsbackup/nfsBackup.py:2875
+msgid "month"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:716 usr/lib/nfsbackup/nfsBackup.py:1424
+#: usr/lib/nfsbackup/nfsBackup.py:2875
+msgid "day"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:718
+msgid "Monday"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:719
+msgid "Tuesday"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:720
+msgid "Wednesday"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:721
+msgid "Thursday"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:722
+msgid "Friday"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:723
+msgid "Saturday"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:724
+msgid "Sunday"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:728
+msgid "Please follow the tip and make your operation"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:730
+msgid "Please select configure for your backup or recovery"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:733 usr/lib/nfsbackup/nfsBackup.py:737
+#: usr/lib/nfsbackup/nfsBackup.py:742
+msgid "Backup configure files"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:746 usr/lib/nfsbackup/nfsBackup.py:751
+msgid "Restore configure files"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:757
+msgid "About"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1021
+msgid "Are you sure to add the timer :"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1080 usr/lib/nfsbackup/nfsBackup.py:1366
+msgid "Please choose the source"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1083 usr/lib/nfsbackup/nfsBackup.py:1369
+#: usr/lib/nfsbackup/nfsBackup.py:1481
+msgid "Please choose the destination"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1087
+msgid "The source includes the destination"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1095
+msgid "Source"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1098
+msgid "   "
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1101 usr/lib/nfsbackup/nfsBackup.py:1300
+#: usr/lib/nfsbackup/nfsBackup.py:1523
+msgid "Description"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1105
+msgid "Compression"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1109
+msgid "Overwrite destination files"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1133 usr/lib/nfsbackup/nfsBackup.py:1392
+#: usr/lib/nfsbackup/nfsBackup.py:1394 usr/lib/nfsbackup/nfsBackup.py:2873
+msgid "Strategy"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1133 usr/lib/nfsbackup/nfsBackup.py:1424
+#: usr/lib/nfsbackup/nfsBackup.py:1465 usr/lib/nfsbackup/nfsBackup.py:2897
+msgid "backup a time"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1134 usr/lib/nfsbackup/nfsBackup.py:1448
+#: usr/lib/nfsbackup/nfsBackup.py:2878
+msgid "every day"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1137 usr/lib/nfsbackup/nfsBackup.py:1450
+#: usr/lib/nfsbackup/nfsBackup.py:2880
+msgid "every"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1146 usr/lib/nfsbackup/nfsBackup.py:1452
+#: usr/lib/nfsbackup/nfsBackup.py:2884
+msgid "one"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1148 usr/lib/nfsbackup/nfsBackup.py:1454
+#: usr/lib/nfsbackup/nfsBackup.py:2886
+msgid "two"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1150 usr/lib/nfsbackup/nfsBackup.py:1456
+#: usr/lib/nfsbackup/nfsBackup.py:2888
+msgid "three"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1152 usr/lib/nfsbackup/nfsBackup.py:1458
+#: usr/lib/nfsbackup/nfsBackup.py:2890
+msgid "four"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1154 usr/lib/nfsbackup/nfsBackup.py:1460
+#: usr/lib/nfsbackup/nfsBackup.py:2892
+msgid "five"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1156 usr/lib/nfsbackup/nfsBackup.py:1462
+#: usr/lib/nfsbackup/nfsBackup.py:2894
+msgid "six"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1158 usr/lib/nfsbackup/nfsBackup.py:1464
+#: usr/lib/nfsbackup/nfsBackup.py:2896
+msgid "seven"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1185
+msgid "There no change to backup_timer"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1237 usr/lib/nfsbackup/nfsBackup.py:1242
+#: usr/lib/nfsbackup/nfsBackup.py:1484
+msgid "Please choose a file to restore from"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1246
+msgid "Please choose a file to restore to"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1257 usr/lib/nfsbackup/nfsBackup.py:3081
+msgid "This is not nfsbackup file."
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1278 usr/lib/nfsbackup/nfsBackup.py:1296
+msgid "Please choose a destination directory"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1332
+msgid "Please choose the source file"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1350
+msgid "No packages need to be installed at this time"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1357
+msgid "Please select one or more packages to install"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1380 usr/lib/nfsbackup/nfsBackup.py:2866
+msgid "Backup-timer source"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1389 usr/lib/nfsbackup/nfsBackup.py:2872
+msgid "Backup-timer destination"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1390 usr/lib/nfsbackup/nfsBackup.py:2873
+msgid "Time"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1401
+msgid "There is no 30th and 31st day in the month!"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1405
+msgid "There is no 31st day in the month!"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1411 usr/lib/nfsbackup/nfsBackup.py:1417
+msgid "There is no 29th day in the the month!"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1422
+msgid "The time is expired!"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1425 usr/lib/nfsbackup/nfsBackup.py:1466
+#: usr/lib/nfsbackup/nfsBackup.py:2898
+msgid "Backup output:"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1439
+msgid "Please choose week!"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1496
+msgid "This is not userbackup file."
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1507
+msgid "This is not sysbackup file."
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1518
+msgid "This is not allbackup file."
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1525
+msgid "Backup configure to"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1526
+msgid "Attention"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1526
+msgid "Please remember your backup destination"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1528
+msgid "Restore configure from"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1637 usr/lib/nfsbackup/nfsBackup.py:1638
+#: usr/lib/nfsbackup/nfsBackup.py:1885 usr/lib/nfsbackup/nfsBackup.py:1886
+#: usr/lib/nfsbackup/nfsBackup.py:2348 usr/lib/nfsbackup/nfsBackup.py:2350
+#: usr/lib/nfsbackup/nfsBackup.py:2656 usr/lib/nfsbackup/nfsBackup.py:2658
+#: usr/lib/nfsbackup/nfsBackup.py:2975 usr/lib/nfsbackup/nfsBackup.py:2976
+msgid "Calculating..."
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1705 usr/lib/nfsbackup/nfsBackup.py:1757
+msgid "Skipping broken link"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1706
+msgid "Broken link"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1709 usr/lib/nfsbackup/nfsBackup.py:1761
+msgid "Skipping link"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1785 usr/lib/nfsbackup/nfsBackup.py:1794
+#: usr/lib/nfsbackup/nfsBackup.py:1803 usr/lib/nfsbackup/nfsBackup.py:2409
+#: usr/lib/nfsbackup/nfsBackup.py:2420 usr/lib/nfsbackup/nfsBackup.py:2433
+#: usr/lib/nfsbackup/nfsBackup.py:2517 usr/lib/nfsbackup/nfsBackup.py:2526
+#: usr/lib/nfsbackup/nfsBackup.py:2536 usr/lib/nfsbackup/nfsBackup.py:2579
+#: usr/lib/nfsbackup/nfsBackup.py:2588 usr/lib/nfsbackup/nfsBackup.py:2598
+#: usr/lib/nfsbackup/nfsBackup.py:2734
+msgid "Skipping identical file"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1846 usr/lib/nfsbackup/nfsBackup.py:2014
+#, python-format
+msgid ""
+"Warning: Some files were not saved, copied: %(current_file)d files out of "
+"%(total)d total"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1850 usr/lib/nfsbackup/nfsBackup.py:2018
+msgid "An error occured during the backup"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1861 usr/lib/nfsbackup/nfsBackup.py:2029
+#: usr/lib/nfsbackup/nfsBackup.py:3020
+msgid "The backup was aborted"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:1870 usr/lib/nfsbackup/nfsBackup.py:2038
+msgid "The backup completed successfully"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:2128
+msgid "Checksum Mismatch:"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:2129
+msgid "Checksum Mismatch"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:2179 usr/lib/nfsbackup/nfsBackup.py:2181
+#: usr/lib/nfsbackup/nfsBackup.py:2208
+msgid "Calculating checksum"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:2251 usr/lib/nfsbackup/nfsBackup.py:2276
+msgid "(Not created with the Backup Tool)"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:2614 usr/lib/nfsbackup/nfsBackup.py:2749
+#, python-format
+msgid ""
+"Warning: Some filed were not restored, copied: %(current_file)d files out of "
+"%(total)d total"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:2617 usr/lib/nfsbackup/nfsBackup.py:2752
+msgid "An error occured during the restoration"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:2629 usr/lib/nfsbackup/nfsBackup.py:2764
+msgid "The restoration was aborted"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:2638 usr/lib/nfsbackup/nfsBackup.py:2773
+msgid "The restoration completed successfully"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:2821
+msgid "Are you sure to remove :"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:3011
+msgid "An error occured during the backup:"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:3028
+msgid "Your software selection was backed up succesfully"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:3055
+msgid "The specified file is not a valid software selection"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:3063 usr/lib/nfsbackup/nfsBackup.py:3221
+msgid "An error occurred while accessing the file"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:3076
+msgid "This is not a archive(tar) file."
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:3160
+msgid "Being repaired grub ..."
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:3164
+msgid "Restore system success."
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:3167
+msgid "The task is terminated."
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:3171
+msgid "No error report."
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:3214
+msgid "Could not locate the package"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:3245
+msgid "Please wait, this can take some time"
+msgstr ""
+
+#: usr/lib/nfsbackup/nfsBackup.py:3247
+msgid "The installation is complete"
+msgstr ""

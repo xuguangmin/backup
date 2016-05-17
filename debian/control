@@ -1,0 +1,15 @@
+Source: nfsbackup
+Section: admin
+Priority: optional
+Maintainer: Nfschina <os_support@nfschina.com>
+Build-Depends: debhelper (>= 9), python, python-psutil
+Standards-Version: 3.9.5
+
+Package: nfsbackup
+Architecture: all
+Depends:
+ ${misc:Depends},
+ python (>= 2.4), python (<< 3),
+ python-gtk2, python-glade2, python-apt, python-vte, python-psutil
+Description: Home Directory Backup Tool
+ Easily backup and restore your personal data and your software selection.

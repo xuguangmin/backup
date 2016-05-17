@@ -1,0 +1,624 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: linuxmint\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2010-04-20 10:28+0100\n"
+"PO-Revision-Date: 2010-11-10 19:35+0000\n"
+"Last-Translator: 大老王 <Unknown>\n"
+"Language-Team: Simplified Chinese <dayong@nfschina.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-04-23 16:15+0000\n"
+"X-Generator: Launchpad (build 16598)\n"
+
+msgid "(Not created with the Backup Tool)"
+msgstr "(没有发现备份)"
+
+msgid ".tar file"
+msgstr ".tar 文件"
+
+msgid ".tar file not overwrite"
+msgstr ".tar 文件(不覆盖)"
+
+msgid ".tar.bz2 file"
+msgstr ".tar.bz2 文件"
+
+msgid ".tar.gz file"
+msgstr ".tar.gz 文件"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Add files"
+msgstr "选择文件"
+
+msgid "Add folder"
+msgstr "选择文件夹"
+
+msgid "Add paths"
+msgstr "添加备份"
+
+msgid "Advanced options"
+msgstr "高级选项"
+
+msgid "Always"
+msgstr "总是"
+
+msgid "An error occured during the backup"
+msgstr "备份时出错"
+
+msgid "An error occured during the backup:"
+msgstr "备份时出错："
+
+msgid "An error occured during the restoration"
+msgstr "恢复过程中发生了错误"
+
+msgid "An error occurred while accessing the file"
+msgstr "读取文件时出错"
+
+msgid "Archive"
+msgstr "压缩文件"
+
+msgid "Are you sure to add the timer :"
+msgstr "您确定要添加该定时备份?"
+
+msgid "Are you sure to remove :"
+msgstr "您确定要删除以下备份任务？"
+
+msgid "Attention"
+msgstr "提示"
+
+msgid "Backing up:"
+msgstr "正在备份："
+
+msgid "Backup Tool"
+msgstr "备份工具"
+
+msgid "Backup all configure"
+msgstr "备份全部配置"
+
+msgid "Backup configure files"
+msgstr "备份配置文件"
+
+msgid "Backup configure to"
+msgstr "备份目的地"
+
+msgid "Backup destination:"
+msgstr "备份到"
+
+msgid "Backup files"
+msgstr "备份文件或文件夹"
+
+msgid "Backup or Restore"
+msgstr "备份或还原"
+
+msgid "Backup or restore your configure"
+msgstr "配置备份与恢复"
+
+msgid "Backup or restore your configure for you"
+msgstr "为您的配置文件进行备份或恢复"
+
+msgid "Backup output:"
+msgstr "备份方式 : "
+
+msgid "Backup software selection"
+msgstr "备份所选的软件(专家模式)"
+
+msgid "Backup system configure"
+msgstr "备份系统配置"
+
+msgid "Backup user configure"
+msgstr "备份用户配置"
+
+msgid "Backup your files regularly"
+msgstr "定时备份"
+
+msgid "Backup your files regularly with the timer"
+msgstr "定时备份您的文件或文件夹"
+
+msgid "Backup-timer destination"
+msgstr "备 份 到  : "
+
+msgid "Backup-timer setup"
+msgstr "定时备份设置"
+
+msgid "Backup-timer source"
+msgstr "备 份 源  : "
+
+msgid "Broken link"
+msgstr "损坏的链接"
+
+msgid "Calculating checksum"
+msgstr "正在计算校验和"
+
+msgid "Calculating..."
+msgstr "正在计算..."
+
+msgid "Checksum Mismatch"
+msgstr "校验和不匹配"
+
+msgid "Checksum Mismatch:"
+msgstr "校验和不匹配："
+
+msgid "Checksum mismatch"
+msgstr "校验和不匹配"
+
+msgid "Choose from the following options"
+msgstr "请从以下选项中进行选择"
+
+msgid "Compression"
+msgstr "压缩"
+
+msgid "Confirm integrity"
+msgstr "校验完整性"
+
+msgid "Could not locate the package"
+msgstr "无法找到软件包"
+
+msgid "Create a new backup of your system"
+msgstr "创建您的一个新的系统备份"
+
+msgid "Create an backup-timer"
+msgstr "添加一个备份任务"
+
+msgid "Date"
+msgstr "日     期 :"
+
+msgid "Delete an backup-timer"
+msgstr "删除一个备份任务"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Description:"
+msgstr "描述"
+
+msgid "Deselect all"
+msgstr "取消全选"
+
+msgid "Detail"
+msgstr "详细信息"
+
+msgid "Directory"
+msgstr "文件或文件夹"
+
+msgid "Error"
+msgstr "错误"
+
+msgid "Follow symlinks"
+msgstr "跟随符号链接(Follow symlinks)"
+
+msgid "Friday"
+msgstr "每周五"
+
+msgid "Install"
+msgstr "安装"
+
+msgid "Make a backup of your files"
+msgstr "为您的文件或文件夹创建一个备份"
+
+msgid "Make a backup of your home directory"
+msgstr "备份您的主目录"
+
+msgid "Modification time mismatch"
+msgstr "修改时间不匹配"
+
+msgid "Modify an backup-timer"
+msgstr "修改一个备份任务"
+
+msgid "Monday"
+msgstr "每周一"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Never"
+msgstr "从不"
+
+msgid "No packages need to be installed at this time"
+msgstr "目前没有需要安装的软件包"
+
+msgid "One time"
+msgstr "一次性备份"
+
+msgid "Output:"
+msgstr "输出："
+
+msgid "Overwrite destination files"
+msgstr "覆盖目标文件"
+
+msgid "Overwrite:"
+msgstr "覆盖："
+
+msgid "Path"
+msgstr "路径"
+
+msgid "Periodic"
+msgstr "周期性备份"
+
+msgid "Please choose a destination"
+msgstr "请先选择保存备份的位置"
+
+msgid "Please choose a destination directory"
+msgstr "请选择保存备份的位置"
+
+msgid "Please choose a file to restore from"
+msgstr "请选择备份源文件"
+
+msgid "Please choose a file to restore to"
+msgstr "请选择恢复目的地"
+
+msgid "Please choose the destination"
+msgstr "请选择保存备份的文件夹"
+
+msgid "Please choose the source"
+msgstr "请选择您要备份的文件或文件夹"
+
+msgid ""
+"Please choose the type of backup to restore, its location and a destination"
+msgstr "请选择需要恢复的备份类型，以及备份存放的位置和恢复目的地"
+
+msgid "Please choose week!"
+msgstr "您的周期性备份设定有误，请重新设定！"
+
+msgid "Please follow the tip and make your operation"
+msgstr "请按照提示进行操作"
+
+msgid "Please remember your backup destination"
+msgstr "请记住您的备份目的地，以便恢复使用"
+
+msgid "Please review the information below"
+msgstr "请仔细阅读以下信息"
+
+msgid "Please review the information below before starting the backup"
+msgstr "在备份之前请仔细阅读以下信息"
+
+msgid "Please select a saved software selection"
+msgstr "请选择一个已保存的软件备份列表"
+
+msgid "Please select a source and a destination for your backup"
+msgstr "请选择您要备份的文件或文件夹"
+
+msgid "Please select configure for your backup or recovery"
+msgstr "请选择备份或恢复的类型"
+
+msgid "Please select one or more packages to install"
+msgstr "请选择要进行安装的一个或多个软件包"
+
+msgid "Please select strategy and time for your backup"
+msgstr "请设置您的备份策略和备份时间"
+
+msgid "Please wait while your files are being backed up"
+msgstr "正在备份您的文件，请稍侯"
+
+msgid "Please wait while your files are being restored"
+msgstr "正在恢复您的文件，请等候。"
+
+msgid "Please wait while your software selection is being backed up"
+msgstr "正在备份您所选的软件，请等候。"
+
+msgid "Please wait, this can take some time"
+msgstr "请稍候，这将花费一些时间"
+
+msgid "Preserve permissions"
+msgstr "保留文件权限"
+
+msgid "Preserve structure"
+msgstr "保持文件夹结构"
+
+msgid "Preserve structure always overwrite"
+msgstr "保持文件夹结构(覆盖)"
+
+msgid "Preserve timestamps"
+msgstr "保留时间戳"
+
+msgid "Refresh"
+msgstr "刷新"
+
+msgid "Remove"
+msgstr "移除"
+
+msgid "Restore a previous backup"
+msgstr "从之前的备份中恢复您的文件"
+
+msgid "Restore all configure"
+msgstr "恢复全部配置"
+
+msgid "Restore configure files"
+msgstr "恢复配置文件"
+
+msgid "Restore configure from"
+msgstr "备份源文件"
+
+msgid "Restore destination:"
+msgstr "恢复到"
+
+msgid "Restore files"
+msgstr "恢复文件或文件夹"
+
+msgid "Restore previously installed applications"
+msgstr "恢复之前安装的程序"
+
+msgid "Restore software selection"
+msgstr "恢复所选的软件(专家模式)"
+
+msgid "Restore system configure"
+msgstr "恢复系统配置"
+
+msgid "Restore user configure"
+msgstr "恢复用户配置"
+
+msgid "Restoring:"
+msgstr "正在恢复："
+
+msgid "Saturday"
+msgstr "每周六"
+
+msgid "Save the list of installed applications"
+msgstr "保存已安装程序的列表"
+
+msgid "Select all"
+msgstr "全选"
+
+msgid "Select the packages you want to install"
+msgstr "请选择您想要安装的软件包"
+
+msgid "Size mismatch"
+msgstr "大小不匹配"
+
+msgid "Skipping broken link"
+msgstr "正在跳过损坏的链接"
+
+msgid "Skipping identical file"
+msgstr "正在跳过相同的文件"
+
+msgid "Skipping link"
+msgstr "正在跳过链接"
+
+msgid "Software selection:"
+msgstr "软件备份："
+
+msgid "Source"
+msgstr "备份源"
+
+msgid "Source:"
+msgstr "备份源"
+
+msgid "Store?"
+msgstr "是否保存？"
+
+msgid "Strategy"
+msgstr "定时策略 : "
+
+msgid "Sunday"
+msgstr "每周日"
+
+msgid "The backup completed successfully"
+msgstr "备份已完成"
+
+msgid "The backup is now finished"
+msgstr "备份现在已完成"
+
+msgid "The backup was aborted"
+msgstr "备份被中止"
+
+msgid "The installation is complete"
+msgstr "安装已完成"
+
+msgid "The list below shows the backup-timers you added"
+msgstr "以下列表是您已添加的定时备份任务"
+
+msgid "The list below shows the packages you added to Linux Mint"
+msgstr "以下列表列出了您添加到系统中的软件包"
+
+msgid "The restoration completed successfully"
+msgstr "恢复已完成"
+
+msgid "The restoration is now finished"
+msgstr "恢复现在已完成"
+
+msgid "The restoration of the files is now finished"
+msgstr "恢复现在已完成"
+
+msgid "The restoration was aborted"
+msgstr "恢复被中止"
+
+msgid "The source includes the destination"
+msgstr ""
+"保存备份的文件夹是您要备份的文件夹的一部分，不可执行，请重新选择保存备份的文"
+"件夹"
+
+msgid "The specified file is not a valid software selection"
+msgstr "所选的文件不是一个有效的软件列表"
+
+msgid "The time is expired!"
+msgstr "您所选的时间已过期，请重新选择。"
+
+msgid "There is no 29th day in the month!"
+msgstr "您所选的2月份没有29日，请重新选择。"
+
+msgid "There is no 30th and 31st day in the month!"
+msgstr "二月份没有30日和31日，请重新选择。"
+
+msgid "There is no 31st day in the month!"
+msgstr "您所选的的月份没有31日，请重新选择。"
+
+msgid "There no change to backup_timer"
+msgstr "您未添加或删除任何定时备份任务."
+
+msgid "This is not allbackup file."
+msgstr "这不是全部配置的压缩文件，请重新选择备份源文件。"
+
+msgid "This is not mintbackup file."
+msgstr "请选择由本工具备份的压缩文件。"
+
+msgid "This is not sysbackup file."
+msgstr "这不是系统配置的压缩文件，请重新选择备份源文件。"
+
+msgid "This is not userbackup file."
+msgstr "这不是用户配置的压缩文件，请重新选择备份源文件。"
+
+msgid "Thursday"
+msgstr "每周四"
+
+msgid "Time"
+msgstr "时     间  : "
+
+msgid "Tuesday"
+msgstr "每周二"
+
+msgid "Type"
+msgstr "类型"
+
+msgid ""
+"Warning: Some filed were not restored, copied: %(current_file)d files out of "
+"%(total)d total"
+msgstr ""
+"警告：一些文件没有被恢复，已复制： %(total)d 个文件中的 %(current_file)d 个"
+
+msgid ""
+"Warning: Some files were not saved, copied: %(current_file)d files out of "
+"%(total)d total"
+msgstr ""
+"警告：一些文件没有保存，已复制：%(total)d 个文件中的 %(current_file)d 个"
+
+msgid "Wednesday"
+msgstr "每周三"
+
+msgid "Your package selection was restored succesfully"
+msgstr "您所选择的软件包已经成功恢复"
+
+msgid "Your software selection was backed up succesfully"
+msgstr "您所选择的软件已备份完成"
+
+msgid "backup a time"
+msgstr "备份一次"
+
+msgid "day"
+msgstr "日"
+
+msgid "every"
+msgstr "每周"
+
+msgid "every day"
+msgstr "每天"
+
+msgid "five"
+msgstr "五"
+
+msgid "four"
+msgstr "四"
+
+msgid "hour"
+msgstr "时"
+
+msgid "minute"
+msgstr "分"
+
+msgid "month"
+msgstr "月"
+
+msgid "one"
+msgstr "一"
+
+msgid "seven"
+msgstr "日"
+
+msgid "six"
+msgstr "六"
+
+msgid "three"
+msgstr "三"
+
+msgid "time"
+msgstr "时间(必须设定)"
+
+msgid "two"
+msgstr "二"
+
+
+msgid "Backup your system for you"
+msgstr "备份您的操作系统"
+
+msgid "restore a backup you have created system"
+msgstr "还原一个您创建过的系统备份"
+
+msgid "Backup or restore your system for you"
+msgstr "为您的备份系统进行还原"
+
+msgid "Backup your system"
+msgstr "备份您的操作系统"
+
+msgid "Please review the information below before starting the system backup"
+msgstr "在备份系统前请阅读以下信息"
+
+msgid "Backup system destination:"
+msgstr "备份到"
+
+msgid "Back to the home page?"
+msgstr "确定返回主页吗？"
+
+msgid "Back to the home page will end the current task, determinate to do so?"
+msgstr "如果返回主页将会停止当前的任务，您确定吗？"
+
+msgid "Restore system selection"
+msgstr "系统还原选项"
+
+msgid "Please select a saved system selection"
+msgstr "请选择一个保存过得还原选项"
+
+msgid "System selection:"
+msgstr "系统选项"
+
+msgid "Begin to restore？"
+msgstr "确定开始还原吗？"
+
+msgid "Click yes to use the file"
+msgstr "选择是使用文件"
+
+msgid "for reduction."
+msgstr "为您的还原点吗？"
+
+msgid "Reading file. Just a minute, please."
+msgstr "正在读取文件，请稍等"
+
+msgid "Restore system"
+msgstr "系统还原"
+
+msgid "Backup or Remove regularly"
+msgstr "周期备份与周期删除"
+
+msgid "Backup files or Remove systembackup regularly with the timer"
+msgstr "周期备份，周期删除过期备份"
+
+msgid "remove old systembackup"
+msgstr "删除过期系统备份"
+
+msgid "add system"
+msgstr "系统备份"
+
+msgid "backup destination"
+msgstr "备份目的地"
+
+msgid "weekly"
+msgstr "按周备份"
+
+msgid "monthly"
+msgstr "按月备份"
+
+msgid "NFS Desktop Operating System"
+msgstr "方德桌面操作系统"
+
+msgid "a time"
+msgstr "一次"
+
+msgid "Backup system"
+msgstr "系统备份"
+
+msgid "Backup system success"
+msgstr "系统备份成功"
+
+msgid "The task is terminated"
+msgstr "备份任务中断"
+

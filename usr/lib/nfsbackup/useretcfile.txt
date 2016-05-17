@@ -1,0 +1,226 @@
+.bash_logout
+.config/user-dirs.dirs
+.config/nemo/desktop-metadata
+.config/Software/Kingsoft.conf
+.config/dconf/user
+.config/gnome-session/saved-session
+.config/enchant/en.dic
+.config/enchant/en.exc
+.config/enchant/en_US.exc
+.config/enchant/en_US.dic
+.config/fcitx/cached_layout
+.config/fcitx/profile
+.config/fcitx/conf/fcitx-autoeng.config
+.config/fcitx/conf/fcitx-keyboard.config
+.config/fcitx/conf/fcitx-xkb.config
+.config/fcitx/conf/fcitx-unicode.config
+.config/fcitx/conf/fcitx-xim.config
+.config/fcitx/conf/fcitx-pinyin-enhance.config
+.config/fcitx/conf/fcitx-classic-ui.config
+.config/fcitx/conf/fcitx-quickphrase.config
+.config/fcitx/conf/fcitx-cloudpinyin.config
+.config/fcitx/conf/fcitx-spell.config
+.config/fcitx/conf/fcitx-clipboard.config
+.config/fcitx/conf/fcitx-sogoupinyin.config
+.config/fcitx/conf/fcitx-chttrans.config
+.config/fcitx/conf/fcitx-imselector.config
+.config/fcitx/clipboard/history.dat
+.config/fcitx/log
+.config/fcitx/sogou/SogouPY
+.config/fcitx/sogou/SogouPY.users
+.config/fcitx/sogou/SogouPY.users/acc.dat
+.config/fcitx/data/layout_override
+.config/fcitx/dbus/307e129f724374bde5b0007f535779f3-0
+.config/fcitx/config
+.config/Trolltech.conf
+.config/menus/applications-merged
+.config/menus/cinnamon-applications-merged
+.config/gedit/accels
+.config/user-dirs.locale
+.config/pulse/307e129f724374bde5b0007f535779f3-card-database.tdb
+.config/pulse/307e129f724374bde5b0007f535779f3-stream-volumes.tdb
+.config/pulse/307e129f724374bde5b0007f535779f3-device-volumes.tdb
+.config/pulse/307e129f724374bde5b0007f535779f3-default-sink
+.config/pulse/cookie
+.config/pulse/307e129f724374bde5b0007f535779f3-default-source
+.config/chromium/Default/Favicons-journal
+.config/chromium/Default/Archived History
+.config/chromium/Default/History Provider Cache
+.config/chromium/Default/User StyleSheets
+.config/chromium/Default/User StyleSheets/Custom.css
+.config/chromium/Default/Web Data-journal
+.config/chromium/Default/databases/Databases.db
+.config/chromium/Default/databases/Databases.db-journal
+.config/chromium/Default/History Index 2013-05
+.config/chromium/Default/Web Data
+.config/chromium/Default/History-journal
+.config/chromium/Default/Shortcuts-journal
+.config/chromium/Default/Visited Links
+.config/chromium/Default/History
+.config/chromium/Default/Preferences
+.config/chromium/Default/Cookies
+.config/chromium/Default/Origin Bound Certs-journal
+.config/chromium/Default/Managed Mode Settings
+.config/chromium/Default/Top Sites
+.config/chromium/Default/README
+.config/chromium/Default/Shortcuts
+.config/chromium/Default/Current Tabs
+.config/chromium/Default/QuotaManager
+.config/chromium/Default/QuotaManager-journal
+.config/chromium/Default/Archived History-journal
+.config/chromium/Default/Login Data-journal
+.config/chromium/Default/Login Data
+.config/chromium/Default/Session Storage/MANIFEST-000002
+.config/chromium/Default/Session Storage/000003.log
+.config/chromium/Default/Session Storage/CURRENT
+.config/chromium/Default/Session Storage/LOG
+.config/chromium/Default/Session Storage/LOCK
+.config/chromium/Default/Current Session
+.config/chromium/Default/Origin Bound Certs
+.config/chromium/Default/Network Action Predictor-journal
+.config/chromium/Default/Network Action Predictor
+.config/chromium/Default/Cookies-journal
+.config/chromium/Default/Top Sites-journal
+.config/chromium/Default/Favicons
+.config/chromium/First Run
+.config/chromium/chrome_shutdown_ms.txt
+.config/chromium/Safe Browsing Cookies-journal
+.config/chromium/Service State
+.config/chromium/Dictionaries
+.config/chromium/Dictionaries/en-US-2-4.bdic
+.config/chromium/Local State
+.config/chromium/Safe Browsing Cookies
+.config/caja/desktop-metadata
+.local/share/gsettings-data-convert
+.local/share/gvfs-metadata
+.local/share/gvfs-metadata/home-06d662e6.log
+.local/share/gvfs-metadata/home
+.local/share/icc/edid-93d27770856769f6b94c2248dbe92290.icc
+.local/share/nemo/actions
+.local/share/keyrings/user.keystore
+.local/share/keyrings/login.keyring
+.local/share/session_migration-cinnamon
+.local/share/recently-used.xbel
+.local/share/zeitgeist/fts.index
+.local/share/zeitgeist/fts.index/postlist.baseB
+.local/share/zeitgeist/fts.index/termlist.baseB
+.local/share/zeitgeist/fts.index/position.DB
+.local/share/zeitgeist/fts.index/record.baseB
+.local/share/zeitgeist/fts.index/postlist.baseA
+.local/share/zeitgeist/fts.index/record.DB
+.local/share/zeitgeist/fts.index/termlist.DB
+.local/share/zeitgeist/fts.index/postlist.DB
+.local/share/zeitgeist/fts.index/iamchert
+.local/share/zeitgeist/fts.index/position.baseB
+.local/share/zeitgeist/fts.index/record.baseA
+.local/share/zeitgeist/fts.index/position.baseA
+.local/share/zeitgeist/fts.index/flintlock
+.local/share/zeitgeist/fts.index/termlist.baseA
+.local/share/zeitgeist/activity.sqlite-wal
+.local/share/zeitgeist/activity.sqlite-shm
+.local/share/zeitgeist/activity.sqlite
+.local/share/webkit/icondatabase/WebpageIcons.db
+.local/share/cinnamon/applets
+.local/share/cinnamon/desklets
+.local/share/cinnamon/extensions
+.cache/mozilla/firefox/cojs83dh.default/Cache/C
+.cache/mozilla/firefox/cojs83dh.default/Cache/B
+.cache/mozilla/firefox/cojs83dh.default/Cache/_CACHE_002_
+.cache/mozilla/firefox/cojs83dh.default/Cache/_CACHE_MAP_
+.cache/mozilla/firefox/cojs83dh.default/Cache/_CACHE_001_
+.cache/mozilla/firefox/cojs83dh.default/Cache/A
+.cache/mozilla/firefox/cojs83dh.default/Cache/5
+.cache/mozilla/firefox/cojs83dh.default/Cache/9
+.cache/mozilla/firefox/cojs83dh.default/Cache/6
+.cache/mozilla/firefox/cojs83dh.default/Cache/6/A4
+.cache/mozilla/firefox/cojs83dh.default/Cache/6/A4/51723d01
+.cache/mozilla/firefox/cojs83dh.default/Cache/_CACHE_003_
+.cache/mozilla/firefox/cojs83dh.default/Cache/1
+.cache/mozilla/firefox/cojs83dh.default/Cache/2
+.cache/mozilla/firefox/cojs83dh.default/Cache/F
+.cache/mozilla/firefox/cojs83dh.default/Cache/8
+.cache/mozilla/firefox/cojs83dh.default/Cache/4
+.cache/mozilla/firefox/cojs83dh.default/Cache/0
+.cache/mozilla/firefox/cojs83dh.default/Cache/7
+.cache/mozilla/firefox/cojs83dh.default/Cache/3
+.cache/mozilla/firefox/cojs83dh.default/Cache/D
+.cache/mozilla/firefox/cojs83dh.default/Cache/E
+.cache/mozilla/firefox/cojs83dh.default/startupCache/startupCache.4.little
+.cache/mozilla/firefox/cojs83dh.default/safebrowsing/test-malware-simple.cache
+.cache/mozilla/firefox/cojs83dh.default/safebrowsing/test-phish-simple.cache
+.cache/mozilla/firefox/cojs83dh.default/safebrowsing/test-phish-simple.sbstore
+.cache/mozilla/firefox/cojs83dh.default/safebrowsing/test-malware-simple.pset
+.cache/mozilla/firefox/cojs83dh.default/safebrowsing/test-phish-simple.pset
+.cache/mozilla/firefox/cojs83dh.default/safebrowsing/test-malware-simple.sbstore
+.cache/mozilla/firefox/cojs83dh.default/_CACHE_CLEAN_
+.cache/wallpaper/0_5_1366_768_db25a7af64885fd9456f245cefcac945
+.dmrc
+.dbus/session-bus/307e129f724374bde5b0007f535779f3-0
+.gnome2/nemo-scripts
+.gnome2/accels
+.gnome2/accels/nemo
+.gnome2_private
+.mozilla/firefox/Crash Reports/InstallTime20131206151508
+.mozilla/firefox/profiles.ini
+.mozilla/firefox/cojs83dh.default/extensions.json
+.mozilla/firefox/cojs83dh.default/webapps/webapps.json
+.mozilla/firefox/cojs83dh.default/prefs.js
+.mozilla/firefox/cojs83dh.default/.parentlock
+.mozilla/firefox/cojs83dh.default/compatibility.ini
+.mozilla/firefox/cojs83dh.default/downloads.sqlite
+.mozilla/firefox/cojs83dh.default/cert8.db
+.mozilla/firefox/cojs83dh.default/search.json
+.mozilla/firefox/cojs83dh.default/cookies.sqlite
+.mozilla/firefox/cojs83dh.default/key3.db
+.mozilla/firefox/cojs83dh.default/addons.json
+.mozilla/firefox/cojs83dh.default/webappsstore.sqlite
+.mozilla/firefox/cojs83dh.default/mimeTypes.rdf
+.mozilla/firefox/cojs83dh.default/blocklist.xml
+.mozilla/firefox/cojs83dh.default/addons.sqlite
+.mozilla/firefox/cojs83dh.default/content-prefs.sqlite
+.mozilla/firefox/cojs83dh.default/sessionstore.bak
+.mozilla/firefox/cojs83dh.default/marionette.log
+.mozilla/firefox/cojs83dh.default/localstore.rdf
+.mozilla/firefox/cojs83dh.default/places.sqlite
+.mozilla/firefox/cojs83dh.default/extensions.ini
+.mozilla/firefox/cojs83dh.default/safebrowsing/test-malware-simple.cache
+.mozilla/firefox/cojs83dh.default/safebrowsing/goog-phish-shavar.pset
+.mozilla/firefox/cojs83dh.default/safebrowsing/test-phish-simple.cache
+.mozilla/firefox/cojs83dh.default/safebrowsing/test-phish-simple.sbstore
+.mozilla/firefox/cojs83dh.default/safebrowsing/goog-malware-shavar.sbstore
+.mozilla/firefox/cojs83dh.default/safebrowsing/classifier.hashkey
+.mozilla/firefox/cojs83dh.default/safebrowsing/goog-phish-shavar.sbstore
+.mozilla/firefox/cojs83dh.default/safebrowsing/goog-malware-shavar.cache
+.mozilla/firefox/cojs83dh.default/safebrowsing/test-malware-simple.pset
+.mozilla/firefox/cojs83dh.default/safebrowsing/goog-malware-shavar.pset
+.mozilla/firefox/cojs83dh.default/safebrowsing/test-phish-simple.pset
+.mozilla/firefox/cojs83dh.default/safebrowsing/test-malware-simple.sbstore
+.mozilla/firefox/cojs83dh.default/safebrowsing/goog-phish-shavar.cache
+.mozilla/firefox/cojs83dh.default/search-metadata.json
+.mozilla/firefox/cojs83dh.default/_CACHE_CLEAN_
+.mozilla/firefox/cojs83dh.default/sessionstore.js
+.mozilla/firefox/cojs83dh.default/pluginreg.dat
+.mozilla/firefox/cojs83dh.default/minidumps
+.mozilla/firefox/cojs83dh.default/permissions.sqlite
+.mozilla/firefox/cojs83dh.default/healthreport.sqlite
+.mozilla/firefox/cojs83dh.default/bookmarkbackups
+.mozilla/firefox/cojs83dh.default/bookmarkbackups/bookmarks-2014-06-17_0.json
+.mozilla/firefox/cojs83dh.default/secmod.db
+.mozilla/firefox/cojs83dh.default/signons.sqlite
+.mozilla/firefox/cojs83dh.default/times.json
+.mozilla/firefox/cojs83dh.default/formhistory.sqlite
+.mozilla/firefox/cojs83dh.default/extensions.sqlite
+.mozilla/firefox/cojs83dh.default/sessionstore.bak-20131206151508
+.mozilla/firefox.last-version
+.mozilla/extensions
+.profile
+.xsession-errors
+.ICEauthority
+.bashrc
+.gconf/apps/nm-applet/%gconf.xml
+.gconf/apps/%gconf.xml
+.gconf/apps/gnome-terminal/profiles/Default/%gconf.xml
+.gconf/apps/gnome-terminal/profiles/%gconf.xml
+.gconf/apps/gnome-terminal/%gconf.xml
+.linuxmint/mintUpload/services
+.bash_history

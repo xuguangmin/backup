@@ -1,0 +1,25 @@
+#!/bin/sh
+exec tail -n +3 $0
+# This file provides an easy way to add custom menu entries.  Simply type the
+# menu entries you want to add after this comment.  Be careful not to change
+# the 'exec tail' line above.
+
+
+export linux_gfx_mode
+if [ "$linux_gfx_mode" != "text" ]; then load_video; fi
+menuentry '中科方德系统还原  1.5 64bit GE-0702-ZBR-01 64位, 3.19.8 (/dev/sda1)' --class ubuntu --class gnu-linux --class gnu --class os {
+        recordfail
+        gfxmode $linux_gfx_mode
+        insmod gzio
+        insmod part_msdos
+        insmod ext2
+        set root='hd0,msdos1'
+        if [ x$feature_platform_search_hint = xy ]; then
+          search --no-floppy --fs-uuid --set=root --hint-bios=hd0,msdos1 --hint-efi=hd0,msdos1 --hint-baremetal=ahci0,msdos1  6c586a42-7344-4c16-a92c-dc573ce66c08
+        else
+          search --no-floppy --fs-uuid --set=root 6c586a42-7344-4c16-a92c-dc573ce66c08
+        fi
+        linux   /vmlinuz-3.19.8 root=UUID=0380840b-3b80-4451-80f1-8f53862df4de ro   iommu=usedac quiet splash $vt_handoff
+        initrd  /initrd_nfsrestore.img-3.19.8
+}
+

@@ -1,0 +1,24 @@
+#!/bin/sh -e
+
+MINKVER="2.6.24"
+PREREQ=""
+
+# Output pre-requisites
+prereqs()
+{
+        echo "$PREREQ"
+}
+
+case "$1" in
+    prereqs)
+        prereqs
+        exit 0
+        ;;
+esac
+
+. /usr/share/initramfs-tools/hook-functions
+
+# We use date, hwclock and dumpe2fs
+copy_exec /bin/tar /bin
+copy_exec /bin/gzip /sbin
+copy_exec /bin/bzip2 /sbin

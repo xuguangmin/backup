@@ -1,0 +1,7 @@
+#!/bin/bash
+
+sudo rm -rf /usr/lib/nfsbackup
+sudo rm -rf /var/log/nfsbackup/
+sudo cp -R usr /
+sudo cp -R var /
+sudo nfsbackup

@@ -1,0 +1,16 @@
+#!/usr/bin/python
+
+import os
+import sys
+import commands 
+
+command = "python /usr/lib/nfsbackup/check_systembackup_list.py"
+os.system(command)
+
+launcher = commands.getoutput("/usr/lib/linuxmint/common/mint-which-launcher.py")
+#get current user path
+path = os.path.expanduser('~')
+command = "%s /usr/lib/nfsbackup/nfsBackup.py " % (launcher)
+command += path
+os.system(command)
+

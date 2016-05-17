@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Backup Tool
+Name[zh_CN]=备份工具
+Comment=Make a backup of your home directory
+Comment[zh_CN]=备份您的主目录
+Exec=nfsbackup
+Icon=/usr/lib/nfsbackup/icon.svg
+Terminal=false
+Type=Application
+Encoding=UTF-8
+Categories=System;
